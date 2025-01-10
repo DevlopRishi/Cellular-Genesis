@@ -2,7 +2,7 @@
 
 ## A Grid-Based Cellular Life Simulation
 
-![Game Screenshot](https://via.placeholder.com/600x300/444444/FFFFFF?text=Cellular+Genesis+Screenshot)
+![Game Screenshot](https://github.com/DevlopRishi/Cellular-Genesis/blob/main/IMG_20250110_155255.jpg)
 
 *Placeholder: Replace the above link with a link to an actual screenshot of your game.*
 
