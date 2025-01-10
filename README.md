@@ -76,5 +76,3 @@ This project is inspired by the concept of cellular automata and Conway's Game o
 ---
 
 **Created by Devlop Rishi**
-*If you have a repository link, add it here.*
-```
