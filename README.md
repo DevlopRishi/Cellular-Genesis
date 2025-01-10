@@ -2,9 +2,7 @@
 
 ## A Grid-Based Cellular Life Simulation
 
-![Game Screenshot](https://via.placeholder.com/600x300/444444/FFFFFF?text=Cellular+Genesis+Screenshot)
-
-*Placeholder: Replace the above link with a link to an actual screenshot of your game.*
+![Game Screenshot](https://github.com/DevlopRishi/Cellular-Genesis/blob/02778b6bff40b6add8a66225bc48fd96a9527453/IMG_20250110_155255.jpg)
 
 **Cellular Genesis** is a simple yet captivating simulation of cellular life on a 2D grid. Inspired by the principles of cellular automata, it allows you to witness the birth, growth, and death of cell populations, guided by simple rules of life and competition.
 
